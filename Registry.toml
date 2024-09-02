@@ -1,0 +1,5 @@
+name = "diffinitive_registry"
+uuid = "016355e8-ffb9-481e-960a-cbce34daecbd"
+repo = "git@github.com:Diffinitive/diffinitive_registry.git"
+
+[packages]
