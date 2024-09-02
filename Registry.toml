@@ -3,3 +3,4 @@ uuid = "016355e8-ffb9-481e-960a-cbce34daecbd"
 repo = "git@github.com:Diffinitive/diffinitive_registry.git"
 
 [packages]
+040c2ec2-8d69-4aca-bf03-7d3a7092f2f6 = { name = "Tokens", path = "T/Tokens" }
