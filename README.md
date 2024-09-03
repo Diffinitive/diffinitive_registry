@@ -3,5 +3,5 @@ This is a registry containing the Diffinitive package and other packages before 
 To use the registry, run the following comands at the Julia REPL
 ```julia-repl
 using Pkg
-pkg"registry add git@github.com:Diffinitve/diffinitve_registry.git"
+pkg"registry add git@github.com:Diffinitive/diffinitive_registry.git"
 ```
