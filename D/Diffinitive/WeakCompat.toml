@@ -1,0 +1,5 @@
+["0.1.4 - 0"]
+Makie = "0.21"
+SparseArrayKit = "0.4"
+SparseArrays = "1.10.0 - 1"
+Tokens = "0.1.1 - 0.1"
