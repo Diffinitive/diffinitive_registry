@@ -5,5 +5,6 @@ repo = "git@github.com:Diffinitive/diffinitive_registry.git"
 [packages]
 040c2ec2-8d69-4aca-bf03-7d3a7092f2f6 = { name = "Tokens", path = "T/Tokens" }
 5a373a26-915f-4769-bcab-bf03835de17b = { name = "Diffinitive", path = "D/Diffinitive" }
+77614e12-ad93-43a1-bfa9-3d43097ba846 = { name = "AllocTest", path = "A/AllocTest" }
 8c525935-1fe7-4d03-8418-ce7452b6cb68 = { name = "AutomaticCalculus", path = "A/AutomaticCalculus" }
 dbe114f2-b5d1-4385-b98d-8f89f695f7f5 = { name = "FourierTransforms", path = "F/FourierTransforms" }
