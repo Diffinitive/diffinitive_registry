@@ -1,0 +1,3 @@
+name = "LinearElasticitySolutions"
+uuid = "4786b1ac-524b-4c1f-a55f-b2e2ccfad28e"
+repo = "https://github.com/Diffinitive/LinearElasticitySolutions.jl.git"
